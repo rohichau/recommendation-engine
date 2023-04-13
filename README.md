@@ -2,7 +2,9 @@
 A simple MVP for recommendation engine
 
 #Steps to test the logic:
+
 1.) Open RecommendationEngineTest.java on the path /src/test/java/com/gameberry/sample/recommendation/engine
+
 2.) Run the Junit test that test the usage of recommendation engine 
 
 # Class Flow explanation:
