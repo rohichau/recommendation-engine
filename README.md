@@ -1,7 +1,7 @@
 # recommendation-engine
 A simple MVP for recommendation engine
 
-#Steps to test the logic:
+# Steps to test the logic:
 
 1.) Open RecommendationEngineTest.java on the path /src/test/java/com/gameberry/sample/recommendation/engine
 
